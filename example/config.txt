@@ -1,0 +1,2 @@
+Prefix plugins/GNUMAP/example
+Plugin GNUMAP inputfile parameters.txt outputfile output.gnumap

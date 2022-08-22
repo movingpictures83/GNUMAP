@@ -1,0 +1,2 @@
+plugins/GNUMAP/example/S12_R1.fastq
+plugins/GNUMAP/example/S12_R2.fastq
